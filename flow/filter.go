@@ -1,7 +1,7 @@
 package flow
 
 import (
-	"github.com/reugn/go-streams"
+	"go-streams"
 )
 
 // FilterFunc is a filter predicate function.

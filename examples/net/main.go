@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	ext "github.com/reugn/go-streams/extension"
-	"github.com/reugn/go-streams/flow"
-	"github.com/reugn/go-streams/util"
+	ext "go-streams/extension"
+	"go-streams/flow"
+	"go-streams/util"
 )
 
 // Test producer: nc -u 127.0.0.1 3434

@@ -1,7 +1,7 @@
 package flow
 
 import (
-	"github.com/reugn/go-streams"
+	"go-streams"
 )
 
 // FlatMapFunc is a FlatMap transformation function.

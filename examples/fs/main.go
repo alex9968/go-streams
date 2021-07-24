@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	ext "github.com/reugn/go-streams/extension"
-	"github.com/reugn/go-streams/flow"
+	ext "go-streams/extension"
+	"go-streams/flow"
 )
 
 func main() {

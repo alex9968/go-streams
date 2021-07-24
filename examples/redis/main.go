@@ -1,15 +1,15 @@
-package main
+package redis
 
 import (
 	"context"
 	"strings"
 	"time"
 
-	ext "github.com/reugn/go-streams/redis"
-	"github.com/reugn/go-streams/util"
+	ext "go-streams/redis"
+	"go-streams/util"
 
 	"github.com/go-redis/redis"
-	"github.com/reugn/go-streams/flow"
+	"go-streams/flow"
 )
 
 //docker exec -it pubsub bash
